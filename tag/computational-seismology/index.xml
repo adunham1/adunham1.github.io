@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Seismology | Audrey Dunham</title>
+    <link>https://example.com/tag/computational-seismology/</link>
+      <atom:link href="https://example.com/tag/computational-seismology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Seismology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational Seismology</title>
+      <link>https://example.com/tag/computational-seismology/</link>
+    </image>
+    
+    <item>
+      <title>Gorkha Earthquake</title>
+      <link>https://example.com/project/gorkha/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/gorkha/</guid>
+      <description>&lt;p&gt;The shaking from the Gorkha Earthquake caused 25,000 landslides throughout central Nepal. Using ground motion simulations, we study the effects of high mountainous terrain on the seismic wavefield and how this influences landslide distribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gorkha Earthquake</title>
+      <link>https://example.com/project_old/gorkha/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project_old/gorkha/</guid>
+      <description>&lt;p&gt;The shaking from the Gorkha Earthquake caused 25,000 landslides throughout central Nepal. Using ground motion simulations, we study the effects of high mountainous terrain on the seismic wavefield and how this influences landslide distribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kashmir Earthquake</title>
+      <link>https://example.com/project_old/kashmir/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project_old/kashmir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,6 +11,63 @@
     <loc>https://example.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/project/kashmir/</loc>
+    <lastmod>2021-07-12T14:11:14-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2021-07-12T14:11:14-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project/tetons/</loc>
+    <lastmod>2021-07-12T14:11:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/cascadia-subduction-zone/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/cascading-geohazards/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/computational-seismology/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project/gorkha/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project_old/gorkha/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project/cascadia/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project_old/cascadia/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project_old/kashmir/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/listric-faults/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/national-parks/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/nodal-seismometers/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project_old/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/specfem3d/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project_old/tetons/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/the-big-one/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,9 +78,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/getting-started/</loc>
@@ -40,15 +94,6 @@
   </url><url>
     <loc>https://example.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
