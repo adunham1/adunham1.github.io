@@ -32,6 +32,14 @@
     
     <item>
       <title>Kashmir Earthquake</title>
+      <link>https://example.com/project/kashmir/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/kashmir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kashmir Earthquake</title>
       <link>https://example.com/project_old/kashmir/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project_old/kashmir/</guid>

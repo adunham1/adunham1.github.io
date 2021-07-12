@@ -14,6 +14,14 @@
     
     <item>
       <title>Imaging Cascadia Subduction Zone Forearc</title>
+      <link>https://example.com/project_old/cascadia/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project_old/cascadia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging the Forearc of the Cascadia Subduction Zone</title>
       <link>https://example.com/project/cascadia/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/cascadia/</guid>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>Imaging Cascadia Subduction Zone Forearc</title>
-      <link>https://example.com/project_old/cascadia/</link>
+      <title>Teton Fault</title>
+      <link>https://example.com/project/tetons/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project_old/cascadia/</guid>
+      <guid>https://example.com/project/tetons/</guid>
       <description></description>
     </item>
     

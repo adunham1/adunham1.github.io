@@ -5,28 +5,12 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 14:11:14 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
-    
-    <item>
-      <title>Kashmir</title>
-      <link>https://example.com/project/kashmir/</link>
-      <pubDate>Mon, 12 Jul 2021 14:11:14 -0700</pubDate>
-      <guid>https://example.com/project/kashmir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tetons</title>
-      <link>https://example.com/project/tetons/</link>
-      <pubDate>Mon, 12 Jul 2021 14:11:00 -0700</pubDate>
-      <guid>https://example.com/project/tetons/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Gorkha Earthquake</title>
@@ -38,10 +22,26 @@
     </item>
     
     <item>
-      <title>Imaging Cascadia Subduction Zone Forearc</title>
+      <title>Imaging the Forearc of the Cascadia Subduction Zone</title>
       <link>https://example.com/project/cascadia/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/cascadia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kashmir Earthquake</title>
+      <link>https://example.com/project/kashmir/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/kashmir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teton Fault</title>
+      <link>https://example.com/project/tetons/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/tetons/</guid>
       <description></description>
     </item>
     

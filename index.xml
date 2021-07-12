@@ -33,18 +33,10 @@
     </item>
     
     <item>
-      <title>Kashmir</title>
-      <link>https://example.com/project/kashmir/</link>
-      <pubDate>Mon, 12 Jul 2021 14:11:14 -0700</pubDate>
-      <guid>https://example.com/project/kashmir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tetons</title>
-      <link>https://example.com/project/tetons/</link>
-      <pubDate>Mon, 12 Jul 2021 14:11:00 -0700</pubDate>
-      <guid>https://example.com/project/tetons/</guid>
+      <title>Topographic Control of Ground Motions and Landslides From the 2015 Gorkha Earthquake</title>
+      <link>https://example.com/publication/topographic-control-of-ground-motions-and-landslides-from-the-2015-gorkha-earthquake/</link>
+      <pubDate>Mon, 12 Jul 2021 16:01:10 -0700</pubDate>
+      <guid>https://example.com/publication/topographic-control-of-ground-motions-and-landslides-from-the-2015-gorkha-earthquake/</guid>
       <description></description>
     </item>
     
@@ -68,6 +60,14 @@
     
     <item>
       <title>Imaging Cascadia Subduction Zone Forearc</title>
+      <link>https://example.com/project_old/cascadia/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project_old/cascadia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging the Forearc of the Cascadia Subduction Zone</title>
       <link>https://example.com/project/cascadia/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/cascadia/</guid>
@@ -75,10 +75,10 @@
     </item>
     
     <item>
-      <title>Imaging Cascadia Subduction Zone Forearc</title>
-      <link>https://example.com/project_old/cascadia/</link>
+      <title>Kashmir Earthquake</title>
+      <link>https://example.com/project/kashmir/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project_old/cascadia/</guid>
+      <guid>https://example.com/project/kashmir/</guid>
       <description></description>
     </item>
     
@@ -87,6 +87,14 @@
       <link>https://example.com/project_old/kashmir/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project_old/kashmir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teton Fault</title>
+      <link>https://example.com/project/tetons/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/tetons/</guid>
       <description></description>
     </item>
     
@@ -174,6 +182,14 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Local Earthquake Tomography of the Central Oregon Forearc Using a Large N, Short Duration, Nodal Array</title>
+      <link>https://example.com/publication/local-earthquake-tomography-of-the-central-oregon-forearc-using-a-large-n-short-duration-nodal-array/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/local-earthquake-tomography-of-the-central-oregon-forearc-using-a-large-n-short-duration-nodal-array/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -303,6 +319,14 @@ Three
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The 2 March 2016 Wharton Basin Mw 7.8 earthquake: High stress drop north-south strike-slip rupture in the diffuse oceanic deformation zone between the Indian and Australian Plates</title>
+      <link>https://example.com/publication/whartonbasin/</link>
+      <pubDate>Tue, 12 Jul 2016 16:16:34 -0700</pubDate>
+      <guid>https://example.com/publication/whartonbasin/</guid>
+      <description></description>
     </item>
     
     <item>
