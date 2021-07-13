@@ -5,12 +5,20 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 16:01:10 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 19:02:59 -0700</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Rayleigh Wave Propagation in the Bighorn Mountains Region, Wyoming</title>
+      <link>https://example.com/publication/rayleigh-wave-propagation-in-the-bighorn-mountains-region-wyoming/</link>
+      <pubDate>Mon, 12 Jul 2021 19:02:59 -0700</pubDate>
+      <guid>https://example.com/publication/rayleigh-wave-propagation-in-the-bighorn-mountains-region-wyoming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Topographic Control of Ground Motions and Landslides From the 2015 Gorkha Earthquake</title>

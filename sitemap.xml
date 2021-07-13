@@ -12,13 +12,16 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/publication-type/2/</loc>
-    <lastmod>2021-07-12T16:01:10-07:00</lastmod>
+    <lastmod>2021-07-12T19:02:59-07:00</lastmod>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
-    <lastmod>2021-07-12T16:01:10-07:00</lastmod>
+    <lastmod>2021-07-12T19:02:59-07:00</lastmod>
   </url><url>
     <loc>https://example.com/publication/</loc>
-    <lastmod>2021-07-12T16:01:10-07:00</lastmod>
+    <lastmod>2021-07-12T19:02:59-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/rayleigh-wave-propagation-in-the-bighorn-mountains-region-wyoming/</loc>
+    <lastmod>2021-07-12T19:02:59-07:00</lastmod>
   </url><url>
     <loc>https://example.com/publication/topographic-control-of-ground-motions-and-landslides-from-the-2015-gorkha-earthquake/</loc>
     <lastmod>2021-07-12T16:01:10-07:00</lastmod>
@@ -80,6 +83,9 @@
     <loc>https://example.com/tag/the-big-one/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/talk/linking-strong-ground-motions-and-coseismic-landsliding-associated-with-the-april-25-2015-mw-7.8-gorkha-earthquake/</loc>
+    <lastmod>2021-04-23T14:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -109,6 +115,9 @@
   </url><url>
     <loc>https://example.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/talk/seismic-investigation-of-the-cascadia-forearc-in-central-oregon-through-the-deployment-of-nodal-seismometers-poster-presentation/</loc>
+    <lastmod>2018-12-10T13:40:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/publication/whartonbasin/</loc>
     <lastmod>2016-07-12T16:16:34-07:00</lastmod>
