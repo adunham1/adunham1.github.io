@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/publication-type/2/</loc>
+    <lastmod>2021-07-12T19:02:59-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
     <lastmod>2021-07-12T19:02:59-07:00</lastmod>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
@@ -83,6 +77,9 @@
     <loc>https://example.com/tag/the-big-one/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2021-04-23T14:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/talk/linking-strong-ground-motions-and-coseismic-landsliding-associated-with-the-april-25-2015-mw-7.8-gorkha-earthquake/</loc>
     <lastmod>2021-04-23T14:00:00+00:00</lastmod>
   </url><url>
@@ -129,5 +126,7 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/admin/</loc>
+  </url><url>
+    <loc>https://example.com/event_old/</loc>
   </url>
 </urlset>
