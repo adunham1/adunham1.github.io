@@ -17,16 +17,7 @@
       <link>https://example.com/project/gorkha/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/gorkha/</guid>
-      <description>&lt;p&gt;The shaking from the Gorkha Earthquake caused 25,000 landslides throughout central Nepal. Using ground motion simulations, we study the effects of high mountainous terrain on the seismic wavefield and how this influences landslide distribution.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gorkha Earthquake</title>
-      <link>https://example.com/project_old/gorkha/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project_old/gorkha/</guid>
-      <description>&lt;p&gt;The shaking from the Gorkha Earthquake caused 25,000 landslides throughout central Nepal. Using ground motion simulations, we study the effects of high mountainous terrain on the seismic wavefield and how this influences landslide distribution.&lt;/p&gt;
+      <description>&lt;p&gt;The shaking from the 2015 Gorkha Earthquake caused 25,000 landslides throughout central Nepal. Using ground motion simulations, we study the effects of high mountainous terrain on the seismic wavefield and how this influences landslide distribution. Topography is known to both amplify the seismic wavefield through focusing of seismic waves in ridges and de-amplify the wavefield by scatting seismic waves in valleys. Although topographic amplification has been thoroughly studied in both field studies and numerical modeling, it is not well understood for large earthquakes with complex rupture properties. This study illuminates how topographic amplification is distributed for a large earthquake as well as  how this effects where landslides initiate during seismic shaking, at both a large and local scale.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,15 +26,8 @@
       <link>https://example.com/project/kashmir/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/kashmir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kashmir Earthquake</title>
-      <link>https://example.com/project_old/kashmir/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project_old/kashmir/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Kashmir earthquake occurred on October 8, 2005, 18km NE of Muzaffarabad, Pakistan, rupturing a 70km long portion of the Muzaffarabad fault to the surface. This event was the most destructive earthquake on the Himalayan margin in recent history, killing 87,000, injuring 69,000, and leaving 2.8 million homeless. ~3000 landslides were caused due to the seismic shaking from this event, and in this study we use numerical modeling with high resolution topography to investigate the link between ground motions and landsliding.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

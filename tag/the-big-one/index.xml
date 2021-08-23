@@ -13,19 +13,12 @@
     </image>
     
     <item>
-      <title>Imaging Cascadia Subduction Zone Forearc</title>
-      <link>https://example.com/project_old/cascadia/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project_old/cascadia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Imaging the Forearc of the Cascadia Subduction Zone</title>
       <link>https://example.com/project/cascadia/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/cascadia/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Cascadia Subduction Zone in the Pacific Northwest has the potential to host a M9 earthquake, but generally has little seismic activity in between these large events. Using a dense nodal seismic array, we use local earthquake tomography with small magnitude events to image the forearc in Central Oregon. Understanding the structure of the forearc is important because it can have significant controls on subduction processes as well as hazard along the margin.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +26,8 @@
       <link>https://example.com/project/tetons/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/tetons/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is a side project that I started in the first year of my PhD in an effort to use local earthquakes to image the Teton Fault in NW Wyoming. We deployed 96 nodal seismometers in the hanging wall of the Teton Fault for 30 days. An undergraduate in our lab detected and located over 100 earthquakes in the region (excluding any coming from the very active Yellowstone caldera). On going work is using machine learning techniques to locate more events and conduct an imaging study of the basin and to identify the structure of the fault at depth.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

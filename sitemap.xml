@@ -32,31 +32,13 @@
     <loc>https://example.com/project/gorkha/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project_old/gorkha/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/project_old/cascadia/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/project/cascadia/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/project/kashmir/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project_old/kashmir/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tag/listric-faults/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tag/national-parks/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tag/nodal-seismometers/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/project_old/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/project/</loc>
@@ -71,16 +53,13 @@
     <loc>https://example.com/project/tetons/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project_old/tetons/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/tag/the-big-one/</loc>
     <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://example.com/talk/linking-strong-ground-motions-and-coseismic-landsliding-associated-with-the-april-25-2015-mw-7.8-gorkha-earthquake/</loc>
     <lastmod>2021-04-23T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/talk/linking-strong-ground-motions-and-coseismic-landsliding-associated-with-the-april-25-2015-mw-7.8-gorkha-earthquake/</loc>
+    <loc>https://example.com/event/</loc>
     <lastmod>2021-04-23T14:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tag/academic/</loc>
@@ -126,7 +105,5 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/admin/</loc>
-  </url><url>
-    <loc>https://example.com/event_old/</loc>
   </url>
 </urlset>
