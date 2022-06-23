@@ -254,7 +254,7 @@ nav {
 
 .navbar-inverse {
   /* background: #2115D1; */
-  background-image: url(/img/teton.jpg);
+  background-image: url(../img/teton.jpg);
 }
 
 .navbar-inverse .navbar-nav>li.active {
