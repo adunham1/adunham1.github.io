@@ -249,7 +249,7 @@ nav {
 }
 
 .navbar-inverse li.active {
-  border-bottom: 2px solid white !important;
+  border-bottom: 2px solid black !important;
 }
 
 .navbar-inverse {
@@ -276,16 +276,6 @@ nav {
   background: transparent !important;
 }
 
-.navbar-brand {
-  font-size: 2.15rem !important;
-  font-weight: 900;
-  color: white !important;
-}
-
-/* Navbar link size */
-.navbar-default .navbar-nav>li>a {
-  font-size: 1.5rem !important;
-}
 
 /* Utility classes for positioning content ----------------------------------- */
 .padding-left-1 {
