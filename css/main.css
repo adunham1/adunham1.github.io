@@ -68,7 +68,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
+  margin-top: 0rem
 }
 
 h2, h3 {
@@ -235,12 +236,14 @@ iframe {
 nav {
   padding-top: 1rem;
   padding-bottom: 2rem;
-  background: var(--nd-blue) !important;
+  /*background: var(--nd-blue) !important;*/
 }
 
 .navbar-inverse .navbar-nav>li>a {
-  color: white !important;
-  font-weight: 400;
+  /*color: white !important;
+  font-weight: 400;*/
+  font-weight: 700;
+  background-image: url(../img/teton.jpg);
 }
 
 .navbar-inverse li.active {
@@ -256,10 +259,12 @@ nav {
 }
 
 .navbar-inverse {
-  background: #20364c;
+  /* background: #20364c;
   font-weight: 400;
   color: white !important;
-  border-radius: 0;
+  border-radius: 0; */
+  background-image: url(../img/teton.jpg);
+
 }
 
 .navbar-header button {
