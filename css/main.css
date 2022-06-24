@@ -241,7 +241,7 @@ nav {
 
 .navbar-inverse .navbar-nav>li>a {
   color: white !important;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .navbar-inverse li.active {
@@ -269,6 +269,12 @@ nav {
 
 .navbar-header button:hover {
   background: transparent !important;
+}
+
+.navbar-brand {
+  font-size: 2.15rem !important;
+  font-weight: 900;
+  color: white !important;
 }
 
 /* Utility classes for positioning content ----------------------------------- */
