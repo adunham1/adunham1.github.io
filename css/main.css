@@ -238,22 +238,6 @@ nav {
   background: var(--nd-blue) !important;
 }
 
-.navbar-default .navbar-nav>li>a {
-  /* color: #2115D1; */
-  font-weight: 700;
-  background-image: url(../img/teton.jpg);
-}
-
-.navbar-brand {
-  font-size: 2.15rem !important;
-  font-weight: 900;
-  color: white !important;
-}
-
-/* Navbar link size */
-.navbar-default .navbar-nav>li>a {
-  font-size: 1.5rem !important;
-}
 .navbar-inverse .navbar-nav>li>a {
   color: white !important;
   font-weight: 400;
