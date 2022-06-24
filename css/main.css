@@ -264,7 +264,11 @@ nav {
   color: white !important;
   border-radius: 0; */
   background-image: url(../img/teton.jpg);
-
+}
+.navbar-brand {
+  font-size: 2.15rem !important;
+  font-weight: 900;
+  color: white !important;
 }
 
 .navbar-header button {
