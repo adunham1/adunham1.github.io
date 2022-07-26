@@ -255,7 +255,8 @@ nav {
   /* color: #2115D1; */
   font-weight: 700;
   background-image: url(/img/banner.jpg);
-  background-size: contain;
+  background-size: cover;
+  /* background-repeat: no-repeat; */
 }
 
 .nav .montserrat:hover,
@@ -326,7 +327,8 @@ nav {
 .navbar-inverse {
   /* background: #2115D1; */
   background-image: url(/img/banner.jpg);
-  background-size: contain;
+  background-size: cover;
+  /* background-repeat: no-repeat; */
 }
 
 .navbar-brand {
