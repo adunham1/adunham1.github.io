@@ -260,7 +260,6 @@ nav {
 }
 
 .navbar-inverse li.active {
-  border-bottom: 2px solid white !important;
   background-color: transparent !important;
   border-radius: 1px;
   color: white !important;
@@ -269,6 +268,7 @@ nav {
 
 .navbar-inverse .navbar-nav>.active>a {
   background-color: transparent !important;
+  font-weight: bold !important;
 }
 
 .navbar-inverse .navbar-nav>li.active {
@@ -285,7 +285,7 @@ nav {
   background: transparent !important;
   border-radius: 1px;
   color: white !important;
-  /* font-weight: bold !important; */
+  font-weight: bold !important;
 }
 
 .navbar-default .navbar-nav>li>a:active {
