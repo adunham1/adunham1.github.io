@@ -256,6 +256,16 @@ nav {
   font-weight: 700;
   background-image: url(/img/banner.jpg);
 }
+.nav .montserrat:hover,
+.nav .montserrat:focus-within,
+.nav .montserrat:focus,
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus-within,
+.navbar-inverse .navbar-nav>li>a:focus {
+  background: transparent !important;
+  color: white!important;
+  font-weight: bold;
+}
 /* .navbar-inverse .navbar-nav>li>a {
   color: white !important;
   font-weight: 400;
