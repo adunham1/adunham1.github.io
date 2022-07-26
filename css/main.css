@@ -255,6 +255,7 @@ nav {
   /* color: #2115D1; */
   font-weight: 700;
   background-image: url(/img/banner.jpg);
+  background-size: contain;
 }
 
 .nav .montserrat:hover,
@@ -271,6 +272,8 @@ nav {
 
 .navbar-default .navbar-nav>li>a:active {
   background: transparent !important;
+  color: white !important;
+  font-weight: bold !important;
 }
 
 @media only screen and (min-width: 768px) {
