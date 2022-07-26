@@ -99,10 +99,27 @@ h4, h5, h6 {
   border: none;
 }
 
+#projects .row {
+
+}
+
+#projects .col-img {
+  width: 25%;
+  float: left;
+  margin: 0 1px  0  1px;
+}
+#projects .col-text {
+  width:70%;
+  float: right;
+  padding: none;
+}
+
 #projects .panel-body h5 {
   font-weight: 600;
   color: var(--maroon) !important;
   font-size: 1.1rem;
+  position: right;
+  padding: none;
 }
 
 #projects .panel-heading {
@@ -111,17 +128,17 @@ h4, h5, h6 {
   background-repeat: no-repeat;
   background-position: top left;
   width: 100%;
-  min-height: 200px;
+  min-height: 300px;
 }
 
 #projects .panel-heading.proj-1 {
-  background-image: url(../img/gorkha.jpg);
+  background-image: url(../img/Figure3.jpg);
 }
 #projects .panel-heading.proj-2 {
-  background-image: url(../img/kashmir.jpeg);
+  background-image: url(../img/Kashmir_schematic_add_hb_final3.jpg);
 }
 #projects .panel-heading.proj-3 {
-  background-image: url(../img/cascadia.jpg);
+  background-image: url(../img/cascadia_results.png);
 }
 #projects .panel-heading.proj-4 {
   background-image: url(../img/teton.jpg);
