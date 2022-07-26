@@ -267,7 +267,7 @@ nav {
   background: transparent !important;
   border-radius: 1px;
   color: white !important;
-  font-weight: bold !important;
+  /* font-weight: bold !important; */
 }
 
 .navbar-default .navbar-nav>li>a:active {
@@ -326,12 +326,14 @@ nav {
 .navbar-inverse {
   /* background: #2115D1; */
   background-image: url(/img/banner.jpg);
+  background-size: contain;
 }
 
 .navbar-brand {
   font-size: 2.15rem !important;
   font-weight: 900;
   color: white !important;
+  background: transparent;
 }
 
 /* Navbar link size */
@@ -351,6 +353,7 @@ nav {
 .active {
   /* background: white; */
   border-radius: 2px;
+  background: transparent;
 }
 
 .navbar .dropdown-menu {
