@@ -123,19 +123,19 @@ h4, h5, h6 {
 }
 
 #projects .panel-heading {
-  padding: 0;
-  background-size: cover;
+  padding: none;
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position: top left;
-  width: 100%;
-  min-height: 300px;
+  background-position: center;
+  background-color: white;
+  min-height: 250px;
 }
 
 #projects .panel-heading.proj-1 {
-  background-image: url(../img/Figure3.jpg);
+  background-image: url(../img/screen_shot_gorkha.png);
 }
 #projects .panel-heading.proj-2 {
-  background-image: url(../img/Kashmir_schematic_add_hb_final3.jpg);
+  background-image: url(../img/screen_shot_kashmir.png);
 }
 #projects .panel-heading.proj-3 {
   background-image: url(../img/cascadia_results.png);
@@ -262,7 +262,8 @@ nav {
 }
 
 .navbar-inverse li.active {
-  border-bottom: 2px solid white !important;
+  /* border-bottom: 2px solid white !important; */
+  font-weight: bold;
 }
 
 .navbar-inverse .navbar-nav>.active>a {
