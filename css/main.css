@@ -259,6 +259,10 @@ nav {
   /* background-repeat: no-repeat; */
 }
 
+.navbar-inverse li.active {
+  border-bottom: 2px solid white !important;
+}
+
 .nav .montserrat:hover,
 .nav .montserrat:focus-within,
 .nav .montserrat:focus,
@@ -272,6 +276,12 @@ nav {
 }
 
 .navbar-default .navbar-nav>li>a:active {
+  background: transparent !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:active {
   background: transparent !important;
   color: white !important;
   font-weight: bold !important;
@@ -355,7 +365,7 @@ nav {
 .active {
   /* background: white; */
   border-radius: 2px;
-  background: transparent;
+  background: transparent !important;
 }
 
 .navbar .dropdown-menu {
