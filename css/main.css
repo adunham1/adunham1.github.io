@@ -262,6 +262,9 @@ nav {
 .navbar-inverse li.active {
   border-bottom: 2px solid white !important;
   background: transparent !important;
+  border-radius: 1px;
+  color: white !important;
+  font-weight: bold !important;
 }
 
 .nav .montserrat:hover,
