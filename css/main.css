@@ -251,11 +251,15 @@ nav {
   padding-bottom: 2rem;
   background: var(--nd-blue) !important;
 }
-
-.navbar-inverse .navbar-nav>li>a {
+.navbar-default .navbar-nav>li>a {
+  /* color: #2115D1; */
+  font-weight: 700;
+  background-image: url(/img/banner.jpg);
+}
+/* .navbar-inverse .navbar-nav>li>a {
   color: white !important;
   font-weight: 400;
-}
+} */
 
 .navbar-inverse li.active {
   /* border-bottom: 2px solid white !important; */
@@ -268,6 +272,7 @@ nav {
 
 .navbar-inverse .navbar-nav>li.active {
   color: white !important;
+  font-weight: bold !important;
 }
 
 .navbar-inverse {
