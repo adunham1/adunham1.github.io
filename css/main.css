@@ -99,10 +99,6 @@ h4, h5, h6 {
   border: none;
 }
 
-#projects .row {
-
-}
-
 #projects .col-img {
   width: 25%;
   float: left;
@@ -263,7 +259,7 @@ nav {
 
 .navbar-inverse li.active {
   /* border-bottom: 2px solid white !important; */
-  font-weight: bold;
+  font-weight: bold !important
 }
 
 .navbar-inverse .navbar-nav>.active>a {
@@ -287,6 +283,7 @@ nav {
 
 .navbar-header button:hover {
   background: transparent !important;
+  font-weight: bold !important;
 }
 
 .navbar-brand {
