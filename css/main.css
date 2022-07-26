@@ -287,16 +287,16 @@ nav {
 
   /* hover effects */
   /* Bubble Bottom */
-  .hvr-bubble-bottom {
+  /* .hvr-bubble-bottom {
     display: inline-block;
     vertical-align: bottom;
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     position: relative;
-  }
+  } */
 
-  .hvr-bubble-bottom:before {
+  /* .hvr-bubble-bottom:before {
     pointer-events: none;
     position: absolute;
     z-index: -1;
@@ -310,19 +310,19 @@ nav {
     bottom: 0;
     border-width: 10px 10px 0 10px;
     border-color: white transparent transparent transparent;
-  }
+  } */
 
-  .hvr-bubble-bottom:hover:before, .hvr-bubble-bottom:focus:before, .hvr-bubble-bottom:active:before {
+  /* .hvr-bubble-bottom:hover:before, .hvr-bubble-bottom:focus:before, .hvr-bubble-bottom:active:before {
     -webkit-transform: translateY(10px);
     transform: translateY(10px);
   }
-}
+} */
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
     color: darkslategray !important;
   }
-}
+} */
 
 .navbar-inverse {
   /* background: #2115D1; */
