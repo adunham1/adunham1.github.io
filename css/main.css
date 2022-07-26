@@ -277,13 +277,13 @@ nav {
   font-weight: bold !important;
 }
 
-@media only screen and (min-width: 768px) {
+/* @media only screen and (min-width: 768px) {
   .navbar-default .navbar-nav>.open>a {
     background: white !important;
     border-right: 1px solid lightgray;
     border-top: 1px solid lightgray;
     border-left: 1px solid lightgray;
-  }
+  } */
 
   /* hover effects */
   /* Bubble Bottom */
