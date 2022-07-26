@@ -253,19 +253,10 @@ nav {
 }
 .navbar-default .navbar-nav>li>a {
   /* color: #2115D1; */
-  font-weight: 700;
+  /* font-weight: 700; */
   background-image: url(/img/banner.jpg);
   color: white !important;
-}
-.nav .montserrat:hover,
-.nav .montserrat:focus-within,
-.nav .montserrat:focus,
-.navbar-inverse .navbar-nav>li>a:hover,
-.navbar-inverse .navbar-nav>li>a:focus-within,
-.navbar-inverse .navbar-nav>li>a:focus {
-  background: transparent !important;
-  color: white !important;
-  font-weight: bold;
+  font-weight: bold !important;
 }
 /* .navbar-inverse .navbar-nav>li>a {
   color: white !important;
