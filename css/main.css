@@ -249,6 +249,7 @@ iframe {
 nav {
   padding-top: 1rem;
   padding-bottom: 2rem;
+  background: var(--nd-blue) !important;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -261,7 +262,7 @@ nav {
 
 .navbar-inverse li.active {
   border-bottom: 2px solid white !important;
-  background: transparent !important;
+  background-color: transparent !important;
   border-radius: 1px;
   color: white !important;
   font-weight: bold !important;
@@ -280,13 +281,13 @@ nav {
 }
 
 .navbar-default .navbar-nav>li>a:active {
-  background: transparent !important;
+  background-color: transparent !important;
   color: white !important;
   font-weight: bold !important;
 }
 
 .navbar-inverse .navbar-nav>li>a:active {
-  background: transparent !important;
+  background-color: transparent !important;
   color: white !important;
   font-weight: bold !important;
 }
@@ -369,7 +370,7 @@ nav {
 .active {
   /* background: white; */
   border-radius: 2px;
-  background: transparent !important;
+  background-color: transparent !important;
 }
 
 .navbar .dropdown-menu {
